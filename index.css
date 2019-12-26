@@ -1,0 +1,28 @@
+body {
+  background-color: brown;
+}
+
+div {
+  text-align: center;
+}
+
+.maindiv {
+  border: 5px solid black;
+  padding: 10px;
+}
+
+.signupdiv {
+  border: 2px solid black;
+  padding: 10px 20px;
+}
+
+.signindiv {
+  border: 2px solid black;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
